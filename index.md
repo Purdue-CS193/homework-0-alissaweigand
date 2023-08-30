@@ -1,4 +1,7 @@
 ## Welcome to GitHub Pages
+##hello
+##interesting?
+##idk what im doing...
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -8,6 +11,19 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+- hello
+- hi
+
+'''highlighted??
+1. hi
+2. bye
+
+#Heading1
+##heading2
+###heading3??
+
+***HI
+_Hi_
 ```markdown
 Syntax highlighted code block
 
