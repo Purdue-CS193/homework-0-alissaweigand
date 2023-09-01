@@ -1,3 +1,8 @@
+# Alissa's First CS193 Homework
+- Learning about the terminal
+- getting to meet new people
+- that the class seems fun but also helpful
+
 ## Welcome to GitHub Pages
 ##hello
 ##interesting?
@@ -11,20 +16,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-- hello
-- hi
-
-'''highlighted??
-1. hi
-2. bye
-
-#Heading1
-##heading2
-###heading3??
-
-***HI
-_Hi_
-```markdown
 Syntax highlighted code block
 
 # Header 1
